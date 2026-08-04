@@ -26,7 +26,7 @@ repository:
       email: marco.nenciarini@enterprisedb.com
       primary: false
     - name: Itay Grudev
-      # No public email on file -- not an EDB contributor.
+      email: itay@verito.digital
       primary: false
     - name: Philippe Scorsolini
       # No public email on file -- not an EDB contributor.
